@@ -3,7 +3,7 @@ import './css/App.css';
 import MainPage from './pages/MainPage/MainPage';
 import Radio from './pages/Radio/Radio';
 import RecommendationPage from './pages/Radio/RecommendationPage';
-import Cassettebox from './pages/Cassettebox/CassetteBoxFooter';
+import Cassettebox from './pages/Cassettebox/Cassettebox';
 import Calendar from './pages/Calendar/Calendar';
 
 const Layout = () => (
